@@ -62,3 +62,6 @@ The GitHub flow has six steps, each with distinct benefits when implemented:
 
 # Explore More
 To Learn Git/GitHub in Detail [Click here](https://classroom.udacity.com/courses/ud123). 
+
+# Author
+[Kunal Mahatha](https://github.com/kunal-mahatha)
